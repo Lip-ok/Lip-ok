@@ -2,20 +2,21 @@
 ## I'm a *Front-end-Developer (React)*
 
 ## Skills
-![TypeScript](https://img.shields.io/badge/-TypeScript-yellowgreen)
+![TypeScript](https://img.shields.io/badge/-TypeScript-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green)
 ![SASS](https://img.shields.io/badge/-SASS-blue)
 ![SCSS](https://img.shields.io/badge/-SCSS-blue)
+![CSS3](https://img.shields.io/badge/-CSS3-blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
-![CSS3](https://img.shields.io/badge/-CSS3-pink)
 ![Git](https://img.shields.io/badge/-Git-white)
 ![React](https://img.shields.io/badge/-React-orange)
+![Hooks](https://img.shields.io/badge/-Hooks-orange)
+![Redux](https://img.shields.io/badge/-Redux-orange)
+![Thunk](https://img.shields.io/badge/-Thunk-orange)
+![Router](https://img.shields.io/badge/-Router-orange)
 ![-NextJS](https://img.shields.io/badge/-NextJS-lightgrey)
-![NodeJS](https://img.shields.io/badge/-NodeJS-blue)
-![Hooks](https://img.shields.io/badge/-Hooks-green)
-![Redux](https://img.shields.io/badge/-Redux-yellowgreen)
-![Thunk](https://img.shields.io/badge/-Thunk-red)
-![Router](https://img.shields.io/badge/-Router-pink)
+![NodeJS](https://img.shields.io/badge/-NodeJS-lightgrey)
+
 
 ## Contacts
 instagram: [@lip_ok](https://www.instagram.com/lip_ok/)
