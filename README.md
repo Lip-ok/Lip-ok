@@ -12,10 +12,10 @@
 ![React](https://img.shields.io/badge/-React-orange)
 ![-NextJS](https://img.shields.io/badge/-NextJS-lightgrey)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-blue)
-![React-hooks](https://img.shields.io/badge/-React-hooks-green)
-![React-Redux](https://img.shields.io/badge/-React-Redux-yellowgreen)
-![React-Thunk](https://img.shields.io/badge/-React-Thunk-red)
-![React-Router](https://img.shields.io/badge/-React-Router-yellow)
+![Hooks](https://img.shields.io/badge/-Hooks-green)
+![Redux](https://img.shields.io/badge/-Redux-yellowgreen)
+![Thunk](https://img.shields.io/badge/-Thunk-red)
+![Router](https://img.shields.io/badge/-Router-yellow)
 
 ## Contacts
 instagram: [@lip_ok](https://www.instagram.com/lip_ok/)
