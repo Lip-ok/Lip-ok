@@ -2,7 +2,7 @@
 ## I'm a *Front-end-Developer (React)*
 
 ## Skills
-[TypeScript](https://img.shields.io/badge/-TypeScript-yellowgreen)
+![TypeScript](https://img.shields.io/badge/-TypeScript-yellowgreen)
 JavaScript
 SASS, SCSS HTML5
 CSS3 Git React
