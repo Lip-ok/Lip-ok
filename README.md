@@ -14,7 +14,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-orange)
 ![Thunk](https://img.shields.io/badge/-Thunk-orange)
 ![Router](https://img.shields.io/badge/-Router-orange)
-![-NextJS](https://img.shields.io/badge/-NextJS-lightgrey)
+![NextJS](https://img.shields.io/badge/-NextJS-lightgrey)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-lightgrey)
 
 
