@@ -15,7 +15,7 @@
 ![Hooks](https://img.shields.io/badge/-Hooks-green)
 ![Redux](https://img.shields.io/badge/-Redux-yellowgreen)
 ![Thunk](https://img.shields.io/badge/-Thunk-red)
-![Router](https://img.shields.io/badge/-Router-yellow)
+![Router](https://img.shields.io/badge/-Router-pink)
 
 ## Contacts
 instagram: [@lip_ok](https://www.instagram.com/lip_ok/)
