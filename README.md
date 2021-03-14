@@ -1,5 +1,20 @@
-# Hi there 👋
+# Hi there 👋, My name is Alexander Lipen'
 ## I'm a *Front-end-Developer (React)*
+
+## Skills
+https://img.shields.io/badge/-TypeScript-yellowgreen
+JavaScript
+SASS, SCSS HTML5
+CSS3 Git React
+React-Redux
+React-Thunk
+React-Router Flux
+Next JS Node.js
+React-hooks
+
+## Contacts
+
+
 
 
  
