@@ -3,16 +3,25 @@
 
 ## Skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-yellowgreen)
-JavaScript
-SASS, SCSS HTML5
-CSS3 Git React
-React-Redux
-React-Thunk
-React-Router Flux
-Next JS Node.js
-React-hooks
+![JavaScript](https://img.shields.io/badge/-JavaScript-green)
+![SASS](https://img.shields.io/badge/-SASS-blue)
+![SCSS](https://img.shields.io/badge/-SCSS-blue)
+![HTML5](https://img.shields.io/badge/-HTML5-red)
+![CSS3](https://img.shields.io/badge/-CSS3-pink)
+![Git](https://img.shields.io/badge/-Git-white)
+![React](https://img.shields.io/badge/-React-orange)
+![-NextJS](https://img.shields.io/badge/-NextJS-lightgrey)
+![NodeJS](https://img.shields.io/badge/-NodeJS-blue)
+![React-hooks](https://img.shields.io/badge/-React-hooks-green)
+![React-Redux](https://img.shields.io/badge/-React-Redux-yellowgreen)
+![React-Thunk](https://img.shields.io/badge/-React-Thunk-red)
+![React-Router](https://img.shields.io/badge/-React-Router-yellow)
 
 ## Contacts
+instagram: [@lip_ok](https://www.instagram.com/lip_ok/)
+vkontakte: [alexander_lipen](https://vk.com/alexander_lipen)
+telegram: [@lip_ok](https://t.me/lip_ok)
+phone: +7(915)641 12 37
 
 
 
