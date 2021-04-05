@@ -17,6 +17,7 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-lightgrey)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-lightgrey)
 ![Express](https://img.shields.io/badge/-Express-lightgrey)
+![MongoDB](https://img.shields.io/badge/-MongoDB-yellowgreen)
 
 
 
