@@ -22,7 +22,6 @@
 
 
 ## Contacts
-### instagram: [@lip_ok](https://www.instagram.com/lip_ok/)
 ### vkontakte: [alexander_lipen](https://vk.com/alexander_lipen)
 ### telegram: [@lip_ok](https://t.me/lip_ok)
 ### phone: +7(915)641 12 37
