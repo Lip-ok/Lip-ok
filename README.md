@@ -1,6 +1,7 @@
 # Всем привет 👋, Меня зовут Александр Липень'
 ## Я *Front-end-Developer (React/TS)*
 
+![Ore Stars](https://img.shields.io/ore/stars/:pluginId)
 
 ## Навыки
 ![TypeScript](https://img.shields.io/badge/-TypeScript-green)
