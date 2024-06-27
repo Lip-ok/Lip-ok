@@ -32,43 +32,36 @@
 ![materialUi](https://img.shields.io/badge/-materialUi-oldlace)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-oldlace)
 
-- Jira/Confluence/Сфера
-![Готовые_киты_с_компонентами](https://img.shields.io/badge/-Готовые_киты_с_компонентами-deeppink)
-![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-deeppink)
-![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-deeppink)
 
-- React Dev Tools
-![React](https://img.shields.io/badge/-React-orange)
+![Готовые_киты_с_компонентами](https://img.shields.io/badge/-Готовые_киты_с_компонентами-teal)
+![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-teal)
+![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-teal)
 
+![DevTools](https://img.shields.io/badge/-DevTools-slategray)
 
-
-- React
-- Redux-Saga
-- Redux-Thunk
-- React-Query(RTK Query)
 ![React](https://img.shields.io/badge/-React-orange)
 ![Hooks](https://img.shields.io/badge/-Hooks-orange)
-![Redux](https://img.shields.io/badge/-Redux-orange)
-![Thunk](https://img.shields.io/badge/-Thunk-orange)
-![Router](https://img.shields.io/badge/-Router-orange)
+![Redux_Saga](https://img.shields.io/badge/-Redux_Saga-orange)
+![Redux_Thunk](https://img.shields.io/badge/-Redux_Thunk-orange)
+![RTK_Query](https://img.shields.io/badge/-Router-orange)
+![React_Router](https://img.shields.io/badge/-React_Router-orange)
+
 
 -Redux/MobX/Effector/Redux-Toolkit
-![Router](https://img.shields.io/badge/-Router-orange)
-![Router](https://img.shields.io/badge/-Router-orange)
-![Router](https://img.shields.io/badge/-Router-orange)
-![Router](https://img.shields.io/badge/-Router-orange)
+![Redux](https://img.shields.io/badge/-Redux-yellow)
+![MobX](https://img.shields.io/badge/-MobX-yellow)
+![Effector](https://img.shields.io/badge/-Effector-yellow)
+![Redux_Toolkit](https://img.shields.io/badge/-Redux_Toolkit-yellow)
+![Context](https://img.shields.io/badge/-Context-yellow)
 
-- Node js (основы)
-- Next js (основы)
-![Router](https://img.shields.io/badge/-Router-orange)
-![Router](https://img.shields.io/badge/-Router-orange)
+![NodeJS(основы)](https://img.shields.io/badge/-NodeJS(основы)-darkturquoise)
+![NextJS(основы)](https://img.shields.io/badge/-NextJS(основы)-darkturquoise)
 
 
-- axios/fetch/api/RESTful API
-- ![Router](https://img.shields.io/badge/-Router-orange)
-- ![Router](https://img.shields.io/badge/-Router-orange)
-- ![Router](https://img.shields.io/badge/-Router-orange)
-- ![Router](https://img.shields.io/badge/-Router-orange)
+- ![axios](https://img.shields.io/badge/-axios-mediumspringgreen)
+- ![fetch](https://img.shields.io/badge/-fetch-mediumspringgreen)
+- ![api](https://img.shields.io/badge/-api-mediumspringgreen)
+- ![RESTful_API](https://img.shields.io/badge/-RESTful_API-mediumspringgreen)
 
 
 
