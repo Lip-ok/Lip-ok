@@ -27,7 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green)
 
-![CSS/SASS/SCSS/CSS in JS](https://img.shields.io/badge/-CSS3-blue)
+![SASS/SCSS/CSS in JS](https://img.shields.io/badge/-CSS3-blue)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
