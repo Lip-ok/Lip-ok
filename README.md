@@ -58,8 +58,9 @@
 
 
 ## Контакты
-### telegram: [@lip_ok](https://t.me/lip_ok)
-### phone: +7(915)641 12 37
+### Личный телеграмм: [@lip_ok](https://t.me/lip_ok)
+### телефон: +7(915)641 12 37
+### Телеграмм канал [alipen_front_end](https://t.me/alipen_front_end)
 
 
 
