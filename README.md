@@ -1,28 +1,6 @@
 # Hi there 👋, My name is Alexander Lipen'
 ## I'm a *Front-end-Developer (React)*
 
-- TypeScript
--JavaScript
-- React
--Redux/MobX/Effector/Redux-Toolkit
-- Redux-Saga
-- Redux-Thunk
-- React-Query(RTK Query)
-- Node js (основы)
-- Next js (основы)
-- HTML(HTML5)
-- CSS/SASS/SCSS/CSS in JS
-- Styled Components
-- axios/fetch/api/RESTful API
-- CI/CD
-- Docker
-- Git/GitLab/Bitbucket
-- Figma
--Адаптивная / Кроссбраузерная вёрстка
-- Готовые киты с компонентами/Ant Design/material Ui/ Tailwind
-- Jira/Confluence/Сфера
-- React Dev Tools
-
 ## Skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green)
