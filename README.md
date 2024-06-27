@@ -26,16 +26,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-deeppink)
 ![Адаптивная_Вёрстка](https://img.shields.io/badge/-Адаптивная_Вёрстка-deeppink)
 ![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-deeppink)
+![Готовые_киты_с_компонентами](https://img.shields.io/badge/-Готовые_киты_с_компонентами-deeppink)
 
-![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-oldlace)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-oldlace)
 ![materialUi](https://img.shields.io/badge/-materialUi-oldlace)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-oldlace)
-
-
-![Готовые_киты_с_компонентами](https://img.shields.io/badge/-Готовые_киты_с_компонентами-teal)
-![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-teal)
-![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-teal)
 
 ![DevTools](https://img.shields.io/badge/-DevTools-slategray)
 
