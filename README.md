@@ -2,24 +2,18 @@
 ## I'm a *Front-end-Developer (React)*
 
 
-- TypeScript
--JavaScript
-- React
--Redux/MobX/Effector/Redux-Toolkit
-- Redux-Saga
-- Redux-Thunk
-- React-Query(RTK Query)
+
+
 - Node js (основы)
 - Next js (основы)
-- HTML(HTML5)
-- CSS/SASS/SCSS/CSS in JS
-- Styled Components
+
+
+
 - axios/fetch/api/RESTful API
 - CI/CD
 - Docker
-- Git/GitLab/Bitbucket
-- Figma
--Адаптивная / Кроссбраузерная вёрстка
+
+
 - Готовые киты с компонентами/Ant Design/material Ui/ Tailwind
 - Jira/Confluence/Сфера
 - React Dev Tools
@@ -29,15 +23,35 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green)
 
 ![CSS](https://img.shields.io/badge/-CSS3-blue)
-![SASS](https://img.shields.io/badge/-CSS3-blue)
-![SCSS](https://img.shields.io/badge/-CSS3-blue)
-![CSSinJS](https://img.shields.io/badge/-CSS3-blue)
+![SASS](https://img.shields.io/badge/-SASS-blue)
+![SCSS](https://img.shields.io/badge/-SCSS-blue)
+![CSSinJS](https://img.shields.io/badge/-CSSinJS-blue)
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-blue)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
+![HTML](https://img.shields.io/badge/-HTML-red)
 
 ![Git](https://img.shields.io/badge/-Git-white)
+![GitLab](https://img.shields.io/badge/-GitLab-white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-white)
 
+
+- Figma
+-Адаптивная / Кроссбраузерная вёрстка
+![Figma](https://img.shields.io/badge/-Figma?color=1cbd2c)
+![Адаптивная_Вёрстка](https://img.shields.io/badge/-Адаптивная_Вёрстка?color=1cbd2c)
+![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка?color=1cbd2c)
+
+
+
+
+
+- React
+-Redux/MobX/Effector/Redux-Toolkit
+- Redux-Saga
+- Redux-Thunk
+- React-Query(RTK Query)
 ![React](https://img.shields.io/badge/-React-orange)
 ![Hooks](https://img.shields.io/badge/-Hooks-orange)
 ![Redux](https://img.shields.io/badge/-Redux-orange)
