@@ -1,22 +1,6 @@
-# Hi there 👋, My name is Alexander Lipen'
-## I'm a *Front-end-Developer (React)*
+# Всем привет 👋, Меня зовут Александр Липень'
+## Я *Front-end-Developer (React/TS)*
 
-
-
-
-- Node js (основы)
-- Next js (основы)
-
-
-
-- axios/fetch/api/RESTful API
-- CI/CD
-- Docker
-
-
-- Готовые киты с компонентами/Ant Design/material Ui/ Tailwind
-- Jira/Confluence/Сфера
-- React Dev Tools
 
 ## Skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-green)
@@ -28,7 +12,6 @@
 ![CSSinJS](https://img.shields.io/badge/-CSSinJS-blue)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-blue)
 
-
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
 ![HTML](https://img.shields.io/badge/-HTML-red)
 
@@ -36,19 +19,30 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-white)
 
+![Docker](https://img.shields.io/badge/-Docker-indigo)
+![CI/CD](https://img.shields.io/badge/-CI/CD-indigo)
 
-- Figma
--Адаптивная / Кроссбраузерная вёрстка
+
 ![Figma](https://img.shields.io/badge/-Figma-deeppink)
 ![Адаптивная_Вёрстка](https://img.shields.io/badge/-Адаптивная_Вёрстка-deeppink)
 ![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-deeppink)
 
+![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-oldlace)
+![AntDesign](https://img.shields.io/badge/-AntDesign-oldlace)
+![materialUi](https://img.shields.io/badge/-materialUi-oldlace)
+![Tailwind](https://img.shields.io/badge/-Tailwind-oldlace)
 
+- Jira/Confluence/Сфера
+![Готовые_киты_с_компонентами](https://img.shields.io/badge/-Готовые_киты_с_компонентами-deeppink)
+![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-deeppink)
+![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-deeppink)
+
+- React Dev Tools
+![React](https://img.shields.io/badge/-React-orange)
 
 
 
 - React
--Redux/MobX/Effector/Redux-Toolkit
 - Redux-Saga
 - Redux-Thunk
 - React-Query(RTK Query)
@@ -58,7 +52,23 @@
 ![Thunk](https://img.shields.io/badge/-Thunk-orange)
 ![Router](https://img.shields.io/badge/-Router-orange)
 
+-Redux/MobX/Effector/Redux-Toolkit
+![Router](https://img.shields.io/badge/-Router-orange)
+![Router](https://img.shields.io/badge/-Router-orange)
+![Router](https://img.shields.io/badge/-Router-orange)
+![Router](https://img.shields.io/badge/-Router-orange)
 
+- Node js (основы)
+- Next js (основы)
+![Router](https://img.shields.io/badge/-Router-orange)
+![Router](https://img.shields.io/badge/-Router-orange)
+
+
+- axios/fetch/api/RESTful API
+- ![Router](https://img.shields.io/badge/-Router-orange)
+- ![Router](https://img.shields.io/badge/-Router-orange)
+- ![Router](https://img.shields.io/badge/-Router-orange)
+- ![Router](https://img.shields.io/badge/-Router-orange)
 
 
 
