@@ -2,7 +2,7 @@
 ## Я *Front-end-Developer (React/TS)*
 
 
-## Skills
+## Навыки
 ![TypeScript](https://img.shields.io/badge/-TypeScript-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green)
 
@@ -57,9 +57,7 @@
 ![RESTful_API](https://img.shields.io/badge/-RESTful_API-mediumspringgreen)
 
 
-
-## Contacts
-### vkontakte: [alexander_lipen](https://vk.com/alexander_lipen)
+## Контакты
 ### telegram: [@lip_ok](https://t.me/lip_ok)
 ### phone: +7(915)641 12 37
 
