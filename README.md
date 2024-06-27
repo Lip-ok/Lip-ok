@@ -46,8 +46,6 @@
 ![RTK_Query](https://img.shields.io/badge/-Router-orange)
 ![React_Router](https://img.shields.io/badge/-React_Router-orange)
 
-
--Redux/MobX/Effector/Redux-Toolkit
 ![Redux](https://img.shields.io/badge/-Redux-yellow)
 ![MobX](https://img.shields.io/badge/-MobX-yellow)
 ![Effector](https://img.shields.io/badge/-Effector-yellow)
@@ -58,10 +56,10 @@
 ![NextJS(основы)](https://img.shields.io/badge/-NextJS(основы)-darkturquoise)
 
 
-- ![axios](https://img.shields.io/badge/-axios-mediumspringgreen)
-- ![fetch](https://img.shields.io/badge/-fetch-mediumspringgreen)
-- ![api](https://img.shields.io/badge/-api-mediumspringgreen)
-- ![RESTful_API](https://img.shields.io/badge/-RESTful_API-mediumspringgreen)
+![axios](https://img.shields.io/badge/-axios-mediumspringgreen)
+![fetch](https://img.shields.io/badge/-fetch-mediumspringgreen)
+![api](https://img.shields.io/badge/-api-mediumspringgreen)
+![RESTful_API](https://img.shields.io/badge/-RESTful_API-mediumspringgreen)
 
 
 
