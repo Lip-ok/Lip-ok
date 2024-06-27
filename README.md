@@ -28,7 +28,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green)
 
-[![CSS][SASS][SCSS][CSSinJS]](https://img.shields.io/badge/-CSS3-blue)
+![CSS](https://img.shields.io/badge/-CSS3-blue)
+![SASS](https://img.shields.io/badge/-CSS3-blue)
+![SCSS](https://img.shields.io/badge/-CSS3-blue)
+![CSSinJS](https://img.shields.io/badge/-CSS3-blue)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
