@@ -39,9 +39,9 @@
 
 - Figma
 -Адаптивная / Кроссбраузерная вёрстка
-![Figma](https://img.shields.io/badge/-Figma-DeepPink)
-![Адаптивная_Вёрстка](https://img.shields.io/badge/-Адаптивная_Вёрстка-DeepPink)
-![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-DeepPink)
+![Figma](https://img.shields.io/badge/-Figma-coral)
+![Адаптивная_Вёрстка](https://img.shields.io/badge/-Адаптивная_Вёрстка-coral)
+![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-coral)
 
 
 
