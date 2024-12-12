@@ -58,7 +58,7 @@
 
 ## Контакты
 ### Личный телеграмм: [@lip_ok](https://t.me/lip_ok)
-### телефон: +7(915)641 12 37
+### gmail: lipenjob@gmail.com
 ### Телеграмм канал [alipen_front_end](https://t.me/alipen_front_end)
 
 
