@@ -59,10 +59,7 @@
 ## Контакты
 ### Личный телеграмм: [@lip_ok](https://t.me/lip_ok)
 ### gmail: lipenjob@gmail.com
-### Телеграмм канал [alipen_front_end](https://t.me/alipen_front_end)
-
-
-
+### Телеграмм канал [alipen_front_end](https://t.me/+WQIqJoCuiSA1YjI6)
 
  
 
