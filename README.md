@@ -46,8 +46,8 @@
 ![Redux_Toolkit](https://img.shields.io/badge/-Redux_Toolkit-yellow)
 ![Context](https://img.shields.io/badge/-Context-yellow)
 
-![NodeJS](https://img.shields.io/badge/-NodeJS(основы)-darkturquoise)
-![NestJS](https://img.shields.io/badge/-NextJS(основы)-darkturquoise)
+![NodeJS](https://img.shields.io/badge/-NodeJS-darkturquoise)
+![NestJS](https://img.shields.io/badge/-NestJS-darkturquoise)
 
 
 ![axios](https://img.shields.io/badge/-axios-mediumspringgreen)
