@@ -1,290 +1,288 @@
-# Всем привет 👋, Меня зовут Александр Липень'
-## Я *Front-end-Developer (React/TS)*
+# Привет! 👋 Меня зовут Александр Липень
 
-## СТЕК
-![TypeScript](https://img.shields.io/badge/-TypeScript-green)
-![JavaScript](https://img.shields.io/badge/-JavaScript-green)
+## Senior Frontend Developer | React / TypeScript | AI Agents
 
-![CSS](https://img.shields.io/badge/-CSS3-blue)
-![SASS](https://img.shields.io/badge/-SASS-blue)
-![SCSS](https://img.shields.io/badge/-SCSS-blue)
-![CSSinJS](https://img.shields.io/badge/-CSSinJS-blue)
-![StyledComponents](https://img.shields.io/badge/-StyledComponents-blue)
+Senior Frontend Developer с 7 годами коммерческого опыта. Разрабатываю сложные web-приложения, банковские и enterprise-системы, микрофронтенд-архитектуры и AI-продукты.
 
-![HTML5](https://img.shields.io/badge/-HTML5-red)
-![HTML](https://img.shields.io/badge/-HTML-red)
+Последний год активно использую AI-агентов в разработке: работаю с IDE- и CLI-агентами, настраиваю терминальных агентов и интегрирую AI-инструменты в повседневный workflow.
 
-![Git](https://img.shields.io/badge/-Git-white)
-![GitLab](https://img.shields.io/badge/-GitLab-white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-white)
-
-![Docker](https://img.shields.io/badge/-Docker-indigo)
-![CI/CD](https://img.shields.io/badge/-CI/CD-indigo)
-
-
-![Figma](https://img.shields.io/badge/-Figma-deeppink)
-![Адаптивная_Вёрстка](https://img.shields.io/badge/-Адаптивная_Вёрстка-deeppink)
-![Кроссбраузерная_Вёрстка](https://img.shields.io/badge/-Кроссбраузерная_Вёрстка-deeppink)
-![Готовые_киты_с_компонентами](https://img.shields.io/badge/-Готовые_киты_с_компонентами-deeppink)
-
-![AntDesign](https://img.shields.io/badge/-AntDesign-oldlace)
-![materialUi](https://img.shields.io/badge/-materialUi-oldlace)
-![Tailwind](https://img.shields.io/badge/-Tailwind-oldlace)
-
-![DevTools](https://img.shields.io/badge/-DevTools-slategray)
-
-![React](https://img.shields.io/badge/-React-orange)
-![Hooks](https://img.shields.io/badge/-Hooks-orange)
-![Redux_Saga](https://img.shields.io/badge/-Redux_Saga-orange)
-![Redux_Thunk](https://img.shields.io/badge/-Redux_Thunk-orange)
-![RTK_Query](https://img.shields.io/badge/-Router-orange)
-![React_Router](https://img.shields.io/badge/-React_Router-orange)
-
-![Redux](https://img.shields.io/badge/-Redux-yellow)
-![MobX](https://img.shields.io/badge/-MobX-yellow)
-![Effector](https://img.shields.io/badge/-Effector-yellow)
-![Redux_Toolkit](https://img.shields.io/badge/-Redux_Toolkit-yellow)
-![Context](https://img.shields.io/badge/-Context-yellow)
-
-![NodeJS](https://img.shields.io/badge/-NodeJS-darkturquoise)
-![NestJS](https://img.shields.io/badge/-NestJS-darkturquoise)
-
-
-![axios](https://img.shields.io/badge/-axios-mediumspringgreen)
-![fetch](https://img.shields.io/badge/-fetch-mediumspringgreen)
-![api](https://img.shields.io/badge/-api-mediumspringgreen)
-![RESTful_API](https://img.shields.io/badge/-RESTful_API-mediumspringgreen)
-
-
-## Контакты
-### Личный телеграмм: [@lip_ok](https://t.me/lip_ok)
-### gmail: lipenjob@gmail.com
-### Телеграмм канал [alipen_front_end](https://t.me/+WQIqJoCuiSA1YjI6)
-
-# ОПЫТ (5+ лет)
-
-## inno.tech
-**Октябрь 2022 — по настоящее время**
-2 года 5 месяцев
-## Топ-3 Российский банк. Разработка банковских систем
-
-## UI-разработчик
+Люблю сложные технические задачи, архитектуру, автоматизацию и создание продуктов с нуля.
 
 ---
 
-### Последний проект (MVP)
-**Команда:**
-- ПМ
-- Аналитик-тестировщик
-- 1 Back
-- 1 Front
-- Дизайнер
-- 1 Fullstack
+## 🚀 Основной стек
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### State Management & Data Fetching
+
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=flat)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat)
+![Effector](https://img.shields.io/badge/Effector-FFFFFF?style=flat)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### AI & AI-assisted Development
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-222222?style=flat)
+
+- Более года практического опыта работы с AI-агентами.
+- Настройка и использование терминальных AI-агентов.
+- Интеграция AI-инструментов в процесс разработки.
+- Использование LLM для анализа кодовой базы, генерации и рефакторинга кода.
+- Автоматизация рутинных инженерных задач.
+- Работа с AI-продуктами и интеграция AI-сервисов.
+
+### Architecture & Engineering
+
+![Microfrontends](https://img.shields.io/badge/Microfrontends-6C63FF?style=flat)
+![Module Federation](https://img.shields.io/badge/Module_Federation-222222?style=flat)
+![SPA](https://img.shields.io/badge/SPA-007ACC?style=flat)
+![SSR](https://img.shields.io/badge/SSR-333333?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSocket-4353FF?style=flat)
+
+### UI & Design
+
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### Tools & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+# 💼 Опыт работы
+
+## Inno.tech — Senior Developer
+
+**Октябрь 2022 — настоящее время**
+
+Разработка банковских и enterprise-приложений.
+
+Работа над несколькими проектами, включая AI-платформы, медицинские системы, realtime-сервисы и системы промышленного мониторинга.
+
+### 🤖 Основной проект — платформа управления AI-ассистентами
+
+Разработка платформы для управления цифровыми AI-ассистентами.
 
 **Реализованные задачи:**
-- Разработка сервиса по взаимодействию с Excel-документами в режиме реального времени
-- Отображение данных Excel-файлов в виде таблиц
-- Загрузка и выгрузка данных из файлов
-- Реализация важного функционала по настройке данных для отображения вкладок навигации в сжатые сроки
-- Возможность гибкой настройки таблиц через JSON, получаемый с backend
+- Разработал frontend-архитектуру приложения на React + TypeScript.
+- Реализовал систему авторизации на Keycloak.
+- Внедрил мультиязычность (i18n).
+- Разработал гибкую систему настройки AI-ассистентов.
+- Реализовал возможность выбора LLM.
+- Участвовал в принятии архитектурных решений и развитии продукта.
 
-**Стек:** Nest, Next, PostgreSQL
+### 🏥 MVP — медицинская AI-система
 
-**Период участия:** С 15 декабря 2024 по настоящее время
+Разработка приложения с нуля.
+
+**Реализованные задачи:**
+- Разработка приложения на Vite + React + TypeScript.
+- Реализация записи и обработки голоса (Canvas + API).
+- Разработка сложных таблиц с поиском, сортировкой и пагинацией.
+- Интеграция AI-сервиса для обработки медицинских данных.
+- Настройка Docker-сборки и деплоя.
+
+### 📊 MVP — Realtime Excel-сервис
+
+**Реализованные задачи:**
+- Разработка интерфейса работы с Excel-данными в реальном времени.
+- Отображение данных файлов в виде таблиц.
+- Реализация динамической конфигурации UI через JSON.
+- Разработка гибкой системы настройки отображения данных.
+- Работа с NestJS и PostgreSQL.
+
+### 🏭 MVP — промышленная система мониторинга
+
+Система мониторинга оборудования, датчиков и производственных процессов.
+
+**Реализованные задачи:**
+- Разработка микрофронтенд-приложения (React + Redux Toolkit + Module Federation).
+- Реализация ролевой модели и авторизации (JWT).
+- Настройка маршрутизации (React Router).
+- Интеграция Ant Design и Styled Components.
+- Разработка таблиц с сортировкой, пагинацией и фильтрацией.
+- Реализация системы уведомлений через WebSocket.
+- Интеграция Grafana через iframe.
+- Разработка древовидных структур: завод → цех → оборудование.
+- Взаимодействие с backend-разработчиками по структуре DTO.
+- Работа с Docker и деплоем.
+
+**Дополнительно:** выполнял роль Frontend Lead — распределение задач, code review и координация frontend-разработки.
+
+### Общие обязанности
+
+- Разработка React-модулей от анализа требований до релиза.
+- Разработка приложений с нуля.
+- Оптимизация производительности и рефакторинг.
+- Работа с микрофронтенд-архитектурой.
+- Участие в разработке npm-пакета для банковского приложения.
+- Code Review и менторинг разработчиков.
+- Участие в технических интервью.
+- Взаимодействие с backend, дизайнерами, аналитиками и DevOps.
+- Интеграция API по спецификации OpenAPI / Swagger.
+- Сопровождение продуктов и устранение ошибок.
 
 ---
 
-### Предпоследний проект (MVP)
-**Описание:**
-Разработка базы данных реального времени. Позволяет компаниям (например, Роснефть) следить за своим оборудованием, датчиками, кранами и т. д., оперативно устранять проблемы и минимизировать потери.
+## IDAO — Senior Developer / Lead Developer
 
-**Достижения:**
-Проект был выполнен в рекордно сжатые сроки, получил положительные отзывы, и о нем была написана статья: [Статья на CNews](https://www.cnews.ru/news/line/2024-10-04_t1_ii_importozamectit_resheniya)
+**Декабрь 2022 — Июль 2024**
 
-**Команда:**
-- ПМ
-- Аналитик-тестировщик
-- 2 Back
-- 1 Front
-- Дизайнер
-- DevOps
+[🌐 idao.finance](https://idao.finance/)
 
-**Обязанности:**
-- Разработка микрофронтового приложения (React + Redux Toolkit + Webpack Module Federation)
-- Реализация ролевой модели и авторизации (JWT-токен)
-- Настройка роутинга (React Router Dom)
-- Подключение Ant Design и кастомизация через Styled Components
-- Реализация таблиц с сортировкой, пагинацией и фильтрацией
-- Разработка сервиса уведомлений (WebSockets, Node.js, Express.js)
-- Интеграция диаграмм (Grafana) через iframe
-- Реализация древовидных структур (Завод → Цех → Оборудование)
-- Плотное взаимодействие с backend-разработчиком по структуре DTO
-- Деплой приложения и взаимодействие с DevOps
-- Поднятие Docker-контейнеров
+Стартап в сфере Web3 и аналитики криптоактивов.
 
-**UPD (04.11.2024):** Приложение успешно прошло два показа, заказчики остались довольны. В команду добавлено два frontend-разработчика, и я выполняю роль лида фронтенд-разработки (распределение задач, код-ревью и т. д.)
+Участвовал в формировании продукта и команды, разработке и запуске платформы с нуля.
 
----
+### Реализованные проекты
 
-### Общие обязанности на разных проектах
-- Разработка React-модулей (React, React Query, TypeScript, HTML, CSS) от анализа до релиза
-- Оптимизация и рефакторинг устаревших модулей
-- Ревью кода
-- Работа с микрофронтовой архитектурой
-- Участие в разработке npm-пакета для банковского веб-приложения
-- Разработка React-приложений с нуля
-- Участие в технических интервью и развитии команды
-- Планирование, обсуждение пользовательских сценариев и интерфейсов
-- Сопровождение продукта, устранение багов, оптимизация
-- Деплой на DEV / IFT / PreProd стенды
-- Интеграция фронтенда по спецификации OpenAPI (Swagger)
-- Разработка экранов по макетам Figma, взаимодействие с дизайнером
+**Лендинг:** https://idao.finance/
 
+**Платформа:** https://forecast.idao.finance/
 
+### Реализованный функционал
 
-# IDAO
+- Разработка адаптивного лендинга.
+- Разработка платформы аналитики криптоактивов.
+- Реализация авторизации и личного кабинета.
+- Подтверждение авторизации через генерацию кодов.
+- Интеграция графиков и аналитических данных.
+- Разработка таблиц и рейтинговых списков.
+- Подключение криптовалютных кошельков.
+- Реализация мультиязычности (i18n).
+- Работа с видео и интерактивными элементами.
 
-[idao.finance](https://idao.finance/)
+### Социальные сети проекта
 
-**Декабрь 2022 — Июль 2024**  
-1 год 8 месяцев
-**Ведущий разработчик**
-
-Стартап по прогнозированию крипто-активов для получения статистики от пользователей и в будущем — платформы по доверительному управлению активами.
-
-## Разработка и запуск
-Разработка началась 2 года назад с множества идей и схем в команде энтузиастов. После этого я подобрал дизайнера, объяснил задачу и начал работу над лендингом. В процессе разработки было внесено множество правок, и конечный результат значительно отличался от первоначальной задумки.
-
-**Лендинг:** [https://idao.finance/](https://idao.finance/)  
-**Платформа:** [https://forecast.idao.finance/](https://forecast.idao.finance/)
-
-На данный момент платформа запущена, проект представлен в социальных сетях:
-- [Twitter (X)](https://x.com/idaofinance?s=21&t=GoYqKqAC0ENtdJ)
+- [Twitter / X](https://x.com/idaofinance)
 - [Discord](https://discord.gg/Ca2Q6zRhrw)
-- [Telegram (канал)](https://t.me/IDAO_finance)
-- [Telegram (чат)](https://t.me/IDAOfinance)
+- [Telegram Channel](https://t.me/IDAO_finance)
+- [Telegram Chat](https://t.me/IDAOfinance)
 
 ---
 
-## Реализованный функционал
-### Лендинг:
-- Адаптивная верстка
-- Смена языка (i18n)
-- Якоря по разделам
-- Работа с видео
+## Ростех / 7tech — Frontend Developer
 
-**Временно вырезанный функционал:**
-- Диаграмма, написанная вручную без библиотек
-- Подключение крипто-кошелька
-- Раздел токеномики с динамическими стрелками (по запросу могу показать макет в Figma и функционал)
+**Сентябрь 2020 — Октябрь 2022**
 
-### Платформа по аналитике:
-- Авторизация
-- Подтверждение авторизации через генерацию кодов
-- Работа с графиками
-- Личный кабинет
-- Таблицы со списками лидеров
-- Подключение к крипто-кошелькам
-- И другие функции (по запросу могу рассказать подробнее)
+[🌐 7tech.ru](https://www.7tech.ru/)
 
+Разработка и поддержка enterprise-приложений.
 
-# Ростех / 7tech
+### Реализованные задачи
 
-[Москва, www.7tech.ru](http://www.7tech.ru/)
+- Разработка генератора форм на основе JSON Schema.
+- Разработка сложных форм и калькуляторов.
+- Создание таблиц для отображения и настройки контрагентов.
+- Реализация экспорта данных в Excel.
+- Оптимизация производительности React-приложений.
+- Оптимизация рендеринга с использованием useMemo, useCallback и useDebounce.
+- Развитие внутреннего UI-kit.
+- Создание новых компонентов на основе существующей архитектуры.
+- Исправление ошибок и рефакторинг компонентов.
 
-**Сентябрь 2020 — Октябрь 2022**  
-2 года 2 месяца  
-**Front-End Developer**
+---
 
-## Разработка и поддержка высоконагруженных сервисов
-### Реализованные задачи:
-- Разработка генератора форм, который на основе JSON-схем генерирует формы на фронтенде.
-- Разработка кастомных форм со сложными калькуляторами.
-- Разработка таблиц для отображения и настройки контрагентов, а также их выгрузка в Excel.
+## Стартап — Flutter Developer
 
-## Оптимизация рендера компонентов:
-- Оптимизация использования `useMemo`, `useCallback`, `useDebounce`.
+**Июль 2020 — Сентябрь 2020**
 
-## Доработка UI-Kit компании:
-- Добавление новых компонентов и форм на основе существующих.
-- Исправление и оптимизация текущих компонентов.
-- Исправление багов при обновлении версий библиотек в проектах.
+Минск.
 
+Разработка MVP приложения для предоставления услуг в странах Прибалтики (аналог Яндекс.Услуг).
 
-
-# Стартап
-
-**Минск**  
-**Июль 2020 — Сентябрь 2020**  
-3 месяца  
-**Flutter Developer**
-
-## О проекте
-Разработка минимально рабочей версии (MVP) приложения для предоставления услуг в странах Прибалтики (аналог Яндекс.Услуг).
-
-## Реализованные задачи:
-- Разработка с нуля всего интерфейса приложения.
-- Создание шапки, футера, интерфейса для авторизации и логина.
-- Отображение данных о пользователе в личном кабинете.
+- Разработка интерфейса приложения с нуля.
+- Создание шапки, футера и экранов авторизации.
+- Разработка личного кабинета.
+- Отображение пользовательских данных.
 
 Проект был закрыт из-за недостатка финансирования.
 
+---
 
+## Maxline — React Developer
 
+**Март 2020 — Июнь 2020**
 
-# Maxline / Букмекерская компания / Betting Company
+[🌐 maxline.by](https://maxline.by/)
 
-[Минск, maxline.by](https://maxline.by/)  
-**Март 2020 — Июнь 2020**  
-4 месяца  
-**React Developer**
+Букмекерская компания.
 
-## Разработка личного кабинета пользователя:
-- Загрузка аватарки.
-- Заполнение и изменение данных пользователя.
+- Разработка личного кабинета пользователя.
+- Загрузка аватаров и управление пользовательскими данными.
+- Работа с документами и PDF.
+- Реализация расчёта ставок с учётом изменения коэффициентов в реальном времени.
+- Оптимизация React-компонентов с использованием useMemo и useCallback.
+- Рефакторинг приложения.
 
-## Работа с документами и паспортными данными:
-- Загрузка документов.
-- Сохранение PDF-инструкций.
+---
 
-## Расчёт ставок в зависимости от быстро изменяющихся условий:
-- Изменение коэффициентов ставок в реальном времени в зависимости от событий на матчах (хоккей, футбол и т. д.).
+## IT-Incubator — Стажёр
 
-## Оптимизация приложения:
-- Оптимизация рендера компонентов с использованием `useMemo` и `useCallback`.
-- Рефакторинг кода.
+**Декабрь 2019 — Февраль 2020**
 
-Проект был завершён из-за сокращений в период пандемии COVID-19.
+[🌐 it-incubator.io](https://it-incubator.io/)
 
-
-
-# IT-Incubator
-
-[Минск, it-incubator.io](https://it-incubator.io/)  
-**Декабрь 2019 — Февраль 2020**  
-3 месяца  
-**Стажёр**
-
-## Опыт и обязанности:
 - Обучение разработке приложений на React.
 - Помощь и поддержка студентов в процессе обучения.
 
+---
 
+# 🧠 Дополнительные компетенции
 
+- Frontend Architecture.
+- Microfrontend Architecture.
+- Performance Optimization.
+- AI-assisted Development.
+- AI Agents & Terminal Agents.
+- LLM Integration.
+- Web3.
+- Code Review.
+- Technical Leadership.
+- Mentoring.
+- Team Collaboration.
+- CI/CD и Docker.
+- Разработка продуктов с нуля.
 
- 
+---
 
-<!--
-**Lip-ok/Lip-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📫 Контакты
 
-Here are some ideas to get you started:
+- **Telegram:** [@lip_ok](https://t.me/lip_ok)
+- **Email:** lipenjob@gmail.com
+- **GitHub:** [Lip-ok](https://github.com/Lip-ok)
+- **Telegram Channel:** [alipen_front_end](https://t.me/+WQIqJoCuiSA1YjI6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ Если тебе интересны Frontend-разработка, React, TypeScript, AI-агенты и архитектура сложных приложений — будем на связи!
